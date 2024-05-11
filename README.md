@@ -12,10 +12,13 @@ SO THAT I can see my employees' payroll data and properly budget for the company
 
 ## Usage
 
-The following images show the web application's appearance and functionality:
+You can use this website to log your payroll for your employees and see the average salary of your staff.
 
-![Animation shows input of employees to an employee payroll tracker.](./Assets/03-javascript-homework-demo.gif)
+## Acknowledgment
 
-![Shows employee information in the console of an employee payroll tracker.](./Assets/03-javascript-homework-console-demo.png)
+Alexander Rodriguez help with debuging average salary.
 
+Images
 
+![alt text](Assets/Image-2.PNG)
+![alt text](Assets/03-javascript-homework-demo.gif)
